@@ -1,0 +1,73 @@
+.header{
+font-family: 'Monofett', cursive;
+font-size: 35px;
+text-align: center;
+color: wheat;
+text-shadow: 2px 2px 5px black;
+}
+
+
+#startButton{
+  border: none;
+  font-family: 'Monofett', cursive;
+  text-align: center;
+  color: black;
+  
+  font-size: 60px;
+  width: 50%;
+  background-color: inherit;
+
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 45%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+
+
+#timer{
+  font-family: 'Lacquer', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px 5px black;
+}
+
+.triviaPage{
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid whitesmoke;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+
+  font-family: 'Lacquer', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px 5px black;
+
+}
+
+
+.resultsPage{
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid whitesmoke;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+
+  font-family: 'Lacquer', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px 5px black;
+
+}
+
+body{
+background-image: url("assets/images/s-l1600.jpg");
+background-size: 950px 900px;
+}
+
